@@ -1,0 +1,34 @@
+# Dependências
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Cobertura de testes (gerada pelo Jest)
+coverage/
+
+# Build / cache
+dist/
+build/
+.cache/
+.npm/
+*.tsbuildinfo
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

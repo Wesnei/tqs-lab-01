@@ -1,0 +1,13 @@
+{
+  "name": "tqs-lab-01",
+  "version": "1.0.0",
+  "description": "API base em Node.js/Express para o Laboratório 01 de Teste e Qualidade de Software",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
