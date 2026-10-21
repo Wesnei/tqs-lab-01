@@ -65,4 +65,4 @@ tqs-lab-01/
 
 A instalação das ferramentas de teste, a configuração dos scripts e a criação da pasta `__tests__` serão guiadas pelo Roteiro Oficial (Notion), que será compartilhado pelo professor durante a aula. Aguarde as instruções para iniciar a codificação dos contratos de teste!
 
-> *"A qualidade não é um ato, é um hábito."* — Aristóteles (e a Engenharia de Software)
+> *"A qualidade não é um ato, é um hábito."* — Aristóteles
